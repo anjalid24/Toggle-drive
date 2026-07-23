@@ -1,0 +1,7 @@
+node_modules/
+.env
+.env.local
+# Local file-upload directory (STORAGE_DIR), not the source storage/ package.
+/storage/
+*.log
+coverage/
